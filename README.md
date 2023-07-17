@@ -34,10 +34,4 @@ The WebApp Dashboard project utilizes the following technologies:
 - Inline SVGs
 - Chart.js
 
-## Contributing
 
-Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the existing code style and provide clear descriptions of your changes.
-
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
